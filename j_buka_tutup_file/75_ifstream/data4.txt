@@ -1,0 +1,11 @@
+Berikut Adalah File Eksternal.
+Dan ini Adalah Baris Kedua
+
+Data
+No    Nama
+1     Putra
+2     Nadin
+3     Albert
+4     Jason
+5     Geby
+6     Lia
