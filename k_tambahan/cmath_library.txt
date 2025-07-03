@@ -1,0 +1,17 @@
+//! Library cmath : referensi www.cppreference.com
+
+/*
+ceil(x) ==> Pembulatan Ke Atas
+floor(x) ==> Pembulatan Ke Bawah
+cos(x) ==> Cosinus
+sin(x) ==> Sinus
+tan(x) ==> Tangen
+exp(x) ==> Eksponen
+fabs(x) ==> Nilai Absolut Pada Float
+fmod(x) ==> Modulus Dalam Float
+log(x) ==> Logaritma Dengan Basis Natural
+log10(x) ==> Logaritma Dengan Basis 10
+pow(x,y) ==> x pangkat y
+sqrt(x) --> Square Root ==> Akar Kudarat
+cbrt(x) --> Cubic Root  ==> Akar Kubik                      
+*/
